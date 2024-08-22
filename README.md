@@ -29,10 +29,10 @@ BFTPD repository: https://github.com/gamman/bftpd
 Once installed, the command to run the server is:  `sudo ./bftpd -D -c bftpd.conf`
 
 ## Running the experiment
-Finally, once Mahimahi and the application server are ready, we can run the experiments using `run_exp.py`. The current version of this repository 
-is configured for protocols that are available in Linux in net.ipv4.tcp_available_congestion_control. Other protocols that are available as 
-pluggable linux kernel modules can be added directly. For protocols that are not available as kernel modules, the code needs to be modified to 
-run the application server and client program that supports the new protocol.
+Finally, once Mahimahi and the application server are ready, we can run the experiments using `run_exp.py` after updating the bftpd information in `run.py`. 
+The current version of this repository is configured for protocols that are available in Linux in net.ipv4.tcp_available_congestion_control. Other protocols 
+that are available as pluggable linux kernel modules can be added directly. For protocols that are not available as kernel modules, the code needs to be modified 
+to run the application server and client program that supports the new protocol.
 
 
 ## Results
