@@ -48,7 +48,7 @@ Citation
 --------
     @misc{asim2022zeus,
         author      = "Asim, Rohail and Khan, Muhammad and Diez, Luis and Iyer, Shiva and Aguero, Ramon and Subramanian, Lakshmi and Zaki, Yasir",
-        title       = "{ZEUS: An Experimental Toolkit for Evaluating Congestion Control Algorithms in 5G Environments}",
+        title       = "ZEUS: An Experimental Toolkit for Evaluating Congestion Control Algorithms in 5G Environments",
         journal     = "arXiv e-prints",
         eprint      = "2208.13985",
         url         = "https://arxiv.org/abs/2208.13985"
