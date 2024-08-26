@@ -43,3 +43,14 @@ Using tshark, we can extract and plot these results. The scripts for these actio
 
 Feel free to contact rohail.asim@nyu.edu with any questions or issues such as issues in running this program or issues in adding new congestion
 control protocols.
+
+Citation
+--------
+    @misc{aldahoul2024ai,
+        author      = "Asim, Rohail and Khan, Muhammad and Diez, Luis and Iyer, Shiva and Aguero, Ramon and Subramanian, Lakshmi and Zaki, Yasir",
+        title       = "{ZEUS: An Experimental Toolkit for Evaluating Congestion Control Algorithms in 5G Environments}",
+        journal     = "arXiv e-prints",
+        eprint      = "2208.13985",
+        url         = "https://arxiv.org/abs/2208.13985"
+        year        = "2022"
+    }
