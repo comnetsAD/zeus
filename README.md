@@ -46,7 +46,7 @@ control protocols.
 
 Citation
 --------
-    @misc{aldahoul2024ai,
+    @misc{asim2022zeus,
         author      = "Asim, Rohail and Khan, Muhammad and Diez, Luis and Iyer, Shiva and Aguero, Ramon and Subramanian, Lakshmi and Zaki, Yasir",
         title       = "{ZEUS: An Experimental Toolkit for Evaluating Congestion Control Algorithms in 5G Environments}",
         journal     = "arXiv e-prints",
