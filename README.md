@@ -15,7 +15,7 @@ http://mahimahi.mit.edu/
 
 The original Mahimahi platform is not optimized for 5G environments, so it is recommended to install the version linked below following the same
 instructions mentioned on the original website for building from the source code.
-Optimized format link: `git clone -b batch-packets --single-branch https://github.com/rohailasim123/mahimahi.git`
+Optimized format link: `git clone -b batch_packets --single-branch https://github.com/rohailasim123/mahimahi.git`
 
 ## Experiment application
 
